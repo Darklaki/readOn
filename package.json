@@ -1,0 +1,25 @@
+{
+  "name": "readon",
+  "version": "1.0.0",
+  "description": "Lightweight library for improving reading experience on your website",
+  "main": "readOn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darklaki/readOn.git"
+  },
+  "keywords": [
+    "typography",
+    "ux",
+    "vanillajs",
+    "es6"
+  ],
+  "author": "Łukasz Szulborski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darklaki/readOn/issues"
+  },
+  "homepage": "https://github.com/Darklaki/readOn#readme"
+}
